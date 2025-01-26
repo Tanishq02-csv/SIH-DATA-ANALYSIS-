@@ -1,0 +1,255 @@
+﻿SERIAL No.,Organization,Problem Statement Title,Category,PS Number,Submitted Idea(s) Count,Theme
+1,Godrej Appliances,"Innovating for Sustainability: Driving Smart Resource Conservation (Energy & Water) in Home Appliances (Refrigerators, Air Conditioners, Washing Machines and Desert Air Coolers)",Hardware,SIH1524,219,Smart Resource Conservation
+2,Godrej Appliances,"Innovating for Sustainability: Driving Smart Resource Conservation (Energy & Water) in Home Appliances (Refrigerators, Air Conditioners, Washing Machines and Desert Air Coolers)",Software,SIH1525,107,Smart Resource Conservation
+3,"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SIH1526,253,Smart Education
+4,"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SIH1527,500,Disaster Management
+5,"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SIH1528,500,Miscellaneous
+6,"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SIH1529,176,Blockchain & Cybersecurity
+7,"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SIH1530,500,Renewable / Sustainable Energy
+8,"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SIH1531,214,Travel & Tourism
+9,"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SIH1532,500,Clean & Green Technology
+10,"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SIH1533,500,Robotics and Drones
+11,"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SIH1534,330,Transportation & Logistics
+12,"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SIH1535,500,Smart Vehicles
+13,"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SIH1536,500,"Agriculture, FoodTech & Rural Development"
+14,"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SIH1537,500,MedTech / BioTech / HealthTech
+15,"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SIH1538,130,Heritage & Culture
+16,"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SIH1539,184,Fitness & Sports
+17,"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SIH1540,500,Smart Automation
+18,"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SIH1541,156,Toys & Games
+19,"AICTE, MIC-Student Innovation",Student Innovation,Hardware,SIH1542,115,Space Technology
+20,Autodesk,"Research and redesign a conventional aerospace component commonly found in air vehicles and utilize Fusion software to reimagine its design. Students can use Fusion Features such as Generative Design, Topology Optimization, Additive Build etc. The redesigned component should showcase innovation, enhanced functionality, and improved efficiency, all while being optimized for 3D printing.",Hardware,SIH1543,97,Smart Automation
+21,Autodesk,"Students are supposed to use Fusion software to generate NC code with machine details & tool library for any industrial component. students should possess technical skills in areas such as CAD/CAM software, G-code programming, toolpath optimization, and machining fundamentals. Additionally, their project ideas should demonstrate a viable solution to a real-world problem, ensuring feasibility and practicality in implementation.",Hardware,SIH1544,84,Smart Automation
+22,Department of Science and Technology,"Development of a non-electrical device for tracking the movement of the sun for movement of the solar panels, increasing their efficiency.",Hardware,SIH1545,500,Renewable / Sustainable Energy
+23,Department of Science and Technology,Development of innovative design for flushing systems in western toilet sheets which can be used for deployment in public toilets.,Hardware,SIH1546,106,Miscellaneous
+24,Department of Science and Technology,Development of an alternative technology to check blockage of blood vessels (an alternative to conventional angiography.,Hardware,SIH1547,114,MedTech / BioTech / HealthTech
+25,Department of Science and Technology,Development of a suction based low-cost flush (with less water usage) for deployment in rural areas.,Hardware,SIH1548,82,Miscellaneous
+26,Department of Science and Technology,"Development of chemical strip (non-electronic) for identification of high temperature exposure in transportation of medicines/vaccines/FMCG goods, to ensure its usability.",Hardware,SIH1549,119,MedTech / BioTech / HealthTech
+27,Department of Science and Technology,Development of portable device (non-contact device) for measurement of eye pressure in glaucoma patients for usage at home.,Hardware,SIH1550,138,MedTech / BioTech / HealthTech
+28,Ministry of Agriculture and Farmers Welfare,Smart Irrigation System for Precision Farming,Hardware,SIH1554,500,"Agriculture, FoodTech & Rural Development"
+29,Ministry of AYUSH,"Create a Virtual Herbal Garden that provides an interactive, educational, and immersive experience to users, showcasing the diverse range of medicinal plants used in AYUSH (Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy).",Software,SIH1555,500,MedTech / BioTech / HealthTech
+30,Ministry of AYUSH,"Develop a Smart Yoga Mat integrated with Artificial Intelligence (AI) capabilities to support smart watch integration for tracking progress and provide curated yoga content by experts, while ensuring its affordability.",Hardware,SIH1556,172,MedTech / BioTech / HealthTech
+31,Ministry of Coal,"Development of Tyre Maintenance and Operation App, including fitment of necessary IIoT related hardware in Dumpers",Hardware,SIH1557,125,Smart Automation
+32,Ministry of Culture,Al-based automated defective exhibit identification system placed in a gallery.,Hardware,SIH1558,98,Smart Automation
+33,Ministry of Electronics and Information Technology,Develop a functional solution that demonstrates the hardware enabled root of trust.,Hardware,SIH1559,75,Smart Automation
+34,"Ministry of Fisheries, Animal Husbandry and Dairying","Rapid colorimetric and artificial intelligence-based methods for determining the microbial quality of raw milk, processed milk, and milk products",Hardware,SIH1560,114,MedTech / BioTech / HealthTech
+35,"Ministry of Fisheries, Animal Husbandry and Dairying","Affordable, Sustainable, and User-friendly Solutions for Semen Dose Storage and Distribution",Hardware,SIH1561,106,"Agriculture, FoodTech & Rural Development"
+36,Narcotics Control Bureau (NCB),Solution for end-to-end tracking of dual use chemicals used in both legitimate industries and illicit drug production from point of manufacture to point of end use/export.,Hardware,SIH1562,64,Blockchain & Cybersecurity
+37,National Technical Research Organisation (NTRO),Automatic Change detection in Synthetic Aperture Radar satellite images,Hardware,SIH1563,75,Space Technology
+38,National Technical Research Organisation (NTRO),Automatic Road Extraction and alert generation for new roads,Hardware,SIH1564,95,Space Technology
+39,National Technical Research Organisation (NTRO),Target detection by optimizing Anomaly Detection in Hyperspectral Image Processing using AI/ML,Hardware,SIH1565,80,Clean & Green Technology
+40,"The National Disaster Response Force (NDRF), MHA",Enhancing body detection in CSSR Operations Using Advanced Technology,Hardware,SIH1566,304,Disaster Management
+41,Ministry of Jal Shakti,"Grey Water Management (GWM) - Designing low-cost testing kits capable of detecting bacterial, faecal, and microbial contaminants in groundwater.",Hardware,SIH1567,119,Clean & Green Technology
+42,Ministry of Jal Shakti,GOBARdhan - Simple control systems and/or instrumentation for small biogas plants that will allow better process control leading to effective digestion and improved yield of biogas.,Hardware,SIH1568,74,Clean & Green Technology
+43,Ministry of Jal Shakti,Personalized testing kits for testing Residual Chlorine level at delivery points,Hardware,SIH1569,101,Smart Automation
+44,Ministry of Jal Shakti,Designing and development of a pressure transducer based equipment with a well cap for measurement of heads in autoflow wells,Hardware,SIH1570,74,Miscellaneous
+45,Ministry of Jal Shakti,Drone-based Intelligent ET sensing system and irrigation water use accounting system for irrigation commands.,Hardware,SIH1571,150,Robotics and Drones
+46,Ministry of Power,Design/Development of an efficient Energy Storage System (ESS) to integrate intermittent Renewable Energy sources and to support/stabilize the grid.,Hardware,SIH1572,186,Renewable / Sustainable Energy
+47,Ministry of Power,Sustainable Utilization of 100% of Ash from Coal based Thermal Power Plants.,Hardware,SIH1573,221,Renewable / Sustainable Energy
+48,Ministry of Power,"Build a detailed concept for an industrial scale green hydrogen (> 50 TPD) production facility, with a levelized cost of hydrogen (LCOH) below $2 USD per kg.",Hardware,SIH1574,57,Clean & Green Technology
+49,Ministry of Power,"Developing innovative solution for efficient management of waste and conversion to valuable products, Waste to Energy- waste recycling",Hardware,SIH1575,428,Clean & Green Technology
+50,Ministry of Power,"Reducing the carbon emissions from thermal plants, developing ways of Carbon capture and utilisation through value added products",Hardware,SIH1576,149,Clean & Green Technology
+51,Ministry of Power,Development of co-electrolyzer : which would synthesize organic chemicals like methanol and inorganic chemicals like ammonia in a single stage.,Hardware,SIH1577,52,Clean & Green Technology
+52,Ministry of Social Justice and Empowerment,Video call intercom based on analog/IP system with vibration sensor,Hardware,SIH1578,127,Miscellaneous
+53,Ministry of Social Justice and Empowerment,Developing writing pen and writing pad for children with Specific learning disability.,Hardware,SIH1579,180,Smart Education
+54,Ministry of Social Justice and Empowerment,Wearable sensor with Artificial Intelligence for prevention of falls in elderly people,Hardware,SIH1580,317,MedTech / BioTech / HealthTech
+55,Ministry of Social Justice and Empowerment,Development of cost-effective myoelectric prosthesis.,Hardware,SIH1581,113,MedTech / BioTech / HealthTech
+56,Ministry of Housing and Urban Affairs,System to check the healthiness of earthing system and alert staff in case of any malfunction;,Hardware,SIH1582,208,Miscellaneous
+57,Ministry of Housing and Urban Affairs,Condition-based monitoring and maintenance system.,Hardware,SIH1583,102,Miscellaneous
+58,Ministry of Housing and Urban Affairs,"Al based acoustic wave monitoring of rail defects like cracks, fracture and prediction for rail wear, quality along with other parameter.",Hardware,SIH1584,293,Transportation & Logistics
+59,Ministry of Housing and Urban Affairs,"Development of Portable EMI/EMC, induction measurement Instruments.",Hardware,SIH1585,81,Miscellaneous
+60,"AICTE, MIC-Student Innovation",Student Innovation,Software,SIH1586,500,Smart Education
+61,"AICTE, MIC-Student Innovation",Student Innovation,Software,SIH1587,448,Disaster Management
+62,"AICTE, MIC-Student Innovation",Student Innovation,Software,SIH1588,500,Miscellaneous
+63,"AICTE, MIC-Student Innovation",Student Innovation,Software,SIH1589,412,Blockchain & Cybersecurity
+64,"AICTE, MIC-Student Innovation",Student Innovation,Software,SIH1590,294,Renewable / Sustainable Energy
+65,"AICTE, MIC-Student Innovation",Student Innovation,Software,SIH1591,500,Travel & Tourism
+66,"AICTE, MIC-Student Innovation",Student Innovation,Software,SIH1592,500,Clean & Green Technology
+67,"AICTE, MIC-Student Innovation",Student Innovation,Software,SIH1593,287,Robotics and Drones
+68,"AICTE, MIC-Student Innovation",Student Innovation,Software,SIH1594,491,Transportation & Logistics
+69,"AICTE, MIC-Student Innovation",Student Innovation,Software,SIH1595,288,Smart Vehicles
+70,"AICTE, MIC-Student Innovation",Student Innovation,Software,SIH1596,500,"Agriculture, FoodTech & Rural Development"
+71,"AICTE, MIC-Student Innovation",Student Innovation,Software,SIH1597,500,MedTech / BioTech / HealthTech
+72,"AICTE, MIC-Student Innovation",Student Innovation,Software,SIH1598,500,Heritage & Culture
+73,"AICTE, MIC-Student Innovation",Student Innovation,Software,SIH1599,500,Fitness & Sports
+74,"AICTE, MIC-Student Innovation",Student Innovation,Software,SIH1600,500,Smart Automation
+75,"AICTE, MIC-Student Innovation",Student Innovation,Software,SIH1601,294,Toys & Games
+76,"AICTE, MIC-Student Innovation",Student Innovation,Software,SIH1602,147,Space Technology
+77,Autodesk,Research and develop a design on ?ö?ç?ú autonomous water surface cleaning robot ?ö?ç?ú,Software,SIH1603,303,Robotics and Drones
+78,Bharat Electronics Limited (BEL),Conversational Image Recognition Chatbot,Software,SIH1604,465,Smart Automation
+79,Bharat Electronics Limited (BEL),Women Safety Analytics ?ö?ç?? Protecting Women from safety threats,Software,SIH1605,500,Miscellaneous
+80,Bharat Electronics Limited (BEL),Micro-Doppler based Target Classification,Software,SIH1606,150,Robotics and Drones
+81,Department of Science and Technology,"A smart AI based solution for traffic management on routes with heavy traffic from different directions, with real-time monitoring and adaptation of traffic light timings",Software,SIH1607,500,Smart Automation
+82,Government of Gujarat,"Enhancing Monitoring and Management of Research, IPR, Innovation, and Start-ups in Gujarat State",Software,SIH1608,162,Smart Education
+83,Government of Gujarat,Implementation of the Alumni Association platform for the University/Institute.,Software,SIH1609,500,Smart Education
+84,Government of Gujarat,Learning App for Deaf And Mute and sign language-English/Gujarati converter,Software,SIH1610,441,Smart Education
+85,Government of Himachal Pardesh,Drone-Based Intelligent System for Apple Orchard Management in Himachal Pradesh,Hardware,SIH1611,223,"Agriculture, FoodTech & Rural Development"
+86,Government of NCT of Delhi,Automated Bus Scheduling and Route Management System for Delhi Transport Corporation,Software,SIH1612,464,Smart Vehicles
+87,Government of NCT of Delhi,Automated System for Career Advancements of the Faculties of Higher Education,Software,SIH1613,177,Smart Education
+88,Government of NCT of Delhi,Publications summary generator for faculty members profile building,Software,SIH1614,139,Smart Education
+89,Government of NCT of Delhi,Learning path dashboard for enhancing skills,Software,SIH1615,300,Smart Education
+90,Government of NCT of Delhi,The technological solutions for capturing AQI values through mobile and other forms of stations,Software,SIH1616,130,Clean & Green Technology
+91,Government of NCT of Delhi,Dynamic route rationalization model based on machine learning/AI would be required based on real-time traffic and road parameters.,Software,SIH1617,154,Smart Automation
+92,Government of NCT of Delhi,Online monitoring of Unauthorized construction across the city,Software,SIH1618,121,Robotics and Drones
+93,Government of NCT of Delhi,Online real-time survey and monitoring of water bodies in Delhi,Software,SIH1619,113,Miscellaneous
+94,Government of NCT of Delhi,Queuing models in OPDs/ availability of beds/ admission of patients. A hospital based solution is ideal which can be integrated with city wide module,Software,SIH1620,500,MedTech / BioTech / HealthTech
+95,Government of NCT of Delhi,Online testing and monitoring of quality of medicines and consumables,Software,SIH1621,212,MedTech / BioTech / HealthTech
+96,Government of NCT of Delhi,Online issuance of Caste and other certificates by Revenue Department need real-time monitoring,Software,SIH1622,140,Smart Automation
+97,Government of NCT of Delhi,"real-time monitoring and evaluation software for application received in Fire Department relating to inspections, follow-ups, issue of NOCs",Software,SIH1623,114,Smart Automation
+98,Government of NCT of Delhi,To develop an Artificial Intelligence (AI) based model for electricity demand projection including peak demand projection for Delhi Power system,Software,SIH1624,190,Smart Automation
+99,Government of NCT of Delhi,Smart Classroom Management Software for Enhanced Learning Environments,Software,SIH1625,330,Smart Automation
+100,Government of NCT of Delhi,Health Data Information & Management System Mobile Application (HDIMS),Software,SIH1626,500,MedTech / BioTech / HealthTech
+101,Government of NCT of Delhi,Drug Inventory and supply chain Tracking system,Software,SIH1627,395,MedTech / BioTech / HealthTech
+102,Government of Punjab,Smart Competency Diagnostic and Candidate Profile Score Calculator,Software,SIH1628,206,Smart Education
+103,Government of Punjab,Freelancing Platform,Software,SIH1629,500,Smart Education
+104,Government of Punjab,Mentor Connect,Software,SIH1630,407,Smart Education
+105,Government of Rajasthan,"AI-Powered Student Assistance Chatbot for Department of Technical Education, Government of Rajasthan.",Software,SIH1631,387,Smart Education
+106,Government of Rajasthan,"An Interactive Job and Internship Platform for Technical Education Department, Govt. of Rajasthan",Software,SIH1632,331,Smart Education
+107,Government of Rajasthan,"Intelligent platform to Interconnect Alumni and Student for Technical Education Department, Govt. of Rajasthan",Software,SIH1633,446,Smart Education
+108,Ministry of Agriculture and Farmers Welfare,Mobile App for Direct Market Access for Farmers,Software,SIH1637,500,"Agriculture, FoodTech & Rural Development"
+109,Ministry of Agriculture and Farmers Welfare,AI-Driven Crop Disease Prediction and Management System,Software,SIH1638,500,"Agriculture, FoodTech & Rural Development"
+110,Ministry of Agriculture and Farmers Welfare,Sustainable Fertilizer Usage Optimizer for Higher Yield,Software,SIH1639,500,"Agriculture, FoodTech & Rural Development"
+111,Ministry of Agriculture and Farmers Welfare,Assured Contract Farming System for Stable Market Access,Software,SIH1640,500,"Agriculture, FoodTech & Rural Development"
+112,Ministry of AYUSH,create an Annual Report Portal for institute where all the departmental reports can be integrated and customized,Software,SIH1641,175,Smart Education
+113,Ministry of AYUSH,"A comprehensive AYUSH Startup Registration Portal to streamline the registration process for startups in the AYUSH sector, enhancing efficiency, transparency, and accessibility.",Software,SIH1642,240,MedTech / BioTech / HealthTech
+114,Ministry of AYUSH,Portal for innovation Excellence Indicators,Software,SIH1643,146,Smart Education
+115,Ministry of Coal,A web application specifically designed for Indian coal mines to quantify their carbon footprint and explore pathways to carbon neutrality.,Software,SIH1644,291,Renewable / Sustainable Energy
+116,Ministry of Coal,An app and web based software for Productivity and safety management of coal mines.,Software,SIH1645,182,Smart Automation
+117,Ministry of Coal,App based Project monitoring of S&T/ R&D Projects of Coal Sector,Software,SIH1646,110,Smart Automation
+118,"Ministry of Consumer Affairs, Food and Public Distribution","Development of AI-ML based models for predicting prices of agri-horticultural commodities such as pulses and vegetable (onion, potato, onion)",Software,SIH1647,500,"Agriculture, FoodTech & Rural Development"
+119,Ministry of Culture,Online Chatbot based ticketing system,Software,SIH1648,500,Travel & Tourism
+120,Ministry of Defence,DDoS Protection System for Cloud: Architecture and Tool,Software,SIH1649,278,Blockchain & Cybersecurity
+121,Ministry of Defence,Early Warning System for Glacial Lake Outburst Floods (GLOFs),Software,SIH1650,191,Disaster Management
+122,Ministry of Defence,Microphone array-based direction of arrival for gunshot detection,Software,SIH1651,219,Miscellaneous
+123,Ministry of Defence,Extraction and Verification of Information from semi-categorised data.,Software,SIH1652,119,Smart Automation
+124,Ministry of Defence,Web based Selector-Applicant Simulation Software,Software,SIH1653,162,Smart Automation
+125,Ministry of Defence,Determining expert relevance with respect to interview board subject and candidates?ö?ç?û area of expertise,Software,SIH1654,124,Smart Automation
+126,Ministry of Earth Sciences,Detecting oil spills at marine environment using Automatic Identification System (AIS) and satellite datasets,Software,SIH1655,177,Smart Automation
+127,Ministry of Earth Sciences,Development of a mobile application to provide recreational suitability information of beach locations across India.,Software,SIH1656,500,Travel & Tourism
+128,Ministry of Earth Sciences,Integrated Geo-Referenced Fish Catch Data Repository and Access System,Software,SIH1657,103,Smart Automation
+129,Ministry of Earth Sciences,Development of a versatile and fast algorithm for the optimal ship routing,Software,SIH1658,222,Transportation & Logistics
+130,Ministry of Earth Sciences,Data download Duplication Alert System (DDAS),Software,SIH1659,114,Miscellaneous
+131,Ministry of Earth Sciences,Interactive gamified approach to Ocean Literacy,Software,SIH1660,130,Smart Automation
+132,Ministry of Education,Implement Software Solutions to Reduce Student Dropout Rates at Various Educational Stages,Software,SIH1661,195,Smart Education
+133,Ministry of Education,Develop Software Solutions to Enhance Educational Infrastructure and Connectivity in Rural Areas,Software,SIH1664,190,Miscellaneous
+134,Ministry of Education,Develop Effective Career Counselling and Guidance Programs in Schools to Enhance Student Career Choices,Software,SIH1666,345,Smart Education
+135,Ministry of Education,Integrate Industry-Relevant Vocational Training into Elementary and Secondary Education Curriculum,Software,SIH1667,109,Smart Education
+136,Ministry of Electronics and Information Technology,"Creating an application to identify the presence of government issued personally identifiable information (PII) embedded in documents and data, inadvertently or otherwise.",Software,SIH1668,158,Blockchain & Cybersecurity
+137,Ministry of Electronics and Information Technology,Transformo Docs Application: Empowering Machine-Readable Document Management System.,Software,SIH1669,106,Smart Automation
+138,Ministry of Electronics and Information Technology,Develop a functional solution that incorporates the security of the ML model.,Software,SIH1670,112,Smart Automation
+139,Ministry of Electronics and Information Technology,Develop a functional solution that demonstrates the face liveness detection,Software,SIH1671,160,Smart Automation
+140,Ministry of Electronics and Information Technology,Develop a ML Model based solution to refine CAPTCHA.,Software,SIH1672,232,Smart Automation
+141,"Ministry of Fisheries, Animal Husbandry and Dairying",Farmers Disease Diagnostic/Reporting Portal - Mobile Portal Al Based,Software,SIH1673,435,"Agriculture, FoodTech & Rural Development"
+142,Narcotics Control Bureau (NCB),"Software solutions to identify users behind Telegram, WhatsApp and Instagram based drug trafficking.",Software,SIH1674,224,Blockchain & Cybersecurity
+143,Narcotics Control Bureau (NCB),Software solution to identify the end receiver of a cryptocurrency transaction,Software,SIH1675,113,Blockchain & Cybersecurity
+144,National Technical Research Organisation (NTRO),Web-scrapping tool to be developed to search and report Critical and High Severity Vulnerabilities of OEM equipment (IT and OT) published at respective OEM websites and other relevant web platforms.,Software,SIH1676,127,Blockchain & Cybersecurity
+145,National Technical Research Organisation (NTRO),Developing a tool to provide for real time feeds of cyber incident pertaining to Indian Cyber Space.,Software,SIH1677,120,Blockchain & Cybersecurity
+146,National Technical Research Organisation (NTRO),RE-DACT,Software,SIH1678,102,Blockchain & Cybersecurity
+147,National Technical Research Organisation (NTRO),Development of Audit script for Windows 11 and Linux OS as per CIS (Centre for Internet Security) bench mark,Software,SIH1679,77,Blockchain & Cybersecurity
+148,National Technical Research Organisation (NTRO),Few Shot Language Agnostic Key Word Spotting system (FSLAKWS) for audio files.,Software,SIH1680,120,Smart Automation
+149,National Technical Research Organisation (NTRO),Identification of algorithm from the given dataset using AI/ML Techniques.,Software,SIH1681,131,Blockchain & Cybersecurity
+150,National Technical Research Organisation (NTRO),Centralized Automated Solution for Price Estimation & Reasonability.,Software,SIH1682,145,Smart Automation
+151,National Technical Research Organisation (NTRO),Development of AI/ML based solution for detection of face-swap based deep fake videos,Software,SIH1683,500,Miscellaneous
+152,National Technical Research Organisation (NTRO),Agent-less Windows System Vulnerability and Network Scanner,Software,SIH1684,71,Blockchain & Cybersecurity
+153,National Technical Research Organisation (NTRO),Building Offline Parallel AV Pipeline to cater multiple AVs for CII entities.,Software,SIH1685,68,Smart Automation
+154,National Technical Research Organisation (NTRO),Tools and techniques for customisation of GPO as per CIS guidelines to deploy on offline / standalone windows.,Software,SIH1686,56,Smart Automation
+155,"The National Disaster Response Force (NDRF), MHA",Real-Time Disaster Information Aggregation Software,Software,SIH1687,359,Disaster Management
+156,Ministry of Jal Shakti,Development of handheld device/Mobile based Operation & Maintenance tool for asset & consumables inventories and finance management in context of drinking water supply scheme.,Software,SIH1688,117,Smart Automation
+157,Ministry of Jal Shakti,Use of Digital Technology to calculate Water Footprints for different Agricultural Products,Software,SIH1689,123,Clean & Green Technology
+158,Ministry of Jal Shakti,Use of Digital Knowledge Sharing Platform like Wikis on sharing of water efficient techniques and methods for minimizing water scarcity.,Software,SIH1690,143,Clean & Green Technology
+159,Ministry of Jal Shakti,Adaption of 'Existing Command Area in Response to Shifting of Agricultural Practices,Software,SIH1691,96,Miscellaneous
+160,Ministry of Jal Shakti,Forecasting Future Water Requirements and Assessing Storage Capacities in Reservoirs,Software,SIH1692,161,Smart Education
+161,Ministry of Jal Shakti,Developing a Robust Hydraulic Transient Analysis Model for Hydro Power and Pumped Storage Schemes.,Software,SIH1693,66,Smart Automation
+162,Ministry of Jal Shakti,"Real-time Ganga river water quality forecasting using AI- enabled DSS, satellite data, IoT, and dynamic models.",Software,SIH1694,135,Smart Automation
+163,Ministry of Jal Shakti,"A software application for analysis of DWLR data and raise alarms in respect of anomalous values, faulty DWLRs etc",Software,SIH1695,112,Smart Automation
+164,Ministry of Jal Shakti,A software application - Ground Water Level Predictor,Software,SIH1696,112,Smart Automation
+165,Ministry of Jal Shakti,AI based chatbot for collating and dissemination of information on groundwater.,Software,SIH1697,109,Smart Automation
+166,Ministry of Jal Shakti,Development of an educational game (web-based and mobile- based) on groundwater conservation and management,Software,SIH1698,167,Smart Education
+167,Ministry of Law and Justice,Lets Learn Constitution in a Simpler Manner-Institution Perspective,Software,SIH1699,301,Miscellaneous
+168,Ministry of Law and Justice,Developing an AI based interactive Chatbot or virtual assistant for the Department of Justice Website.,Software,SIH1700,380,Smart Automation
+169,Ministry of Law and Justice,AI-Driven Research Engine for Commercial Courts,Software,SIH1701,139,Smart Automation
+170,Ministry of Law and Justice,Bail Reckoner,Software,SIH1702,171,Smart Automation
+171,Ministry of Law and Justice,Lets Learn Constitution in a Simpler Manner-Citizen Perspective,Software,SIH1703,346,Smart Education
+172,Ministry of Panchayati Raj,Gamification for Rural Planning using Drone land survey maps and GIS data.,Software,SIH1704,104,Robotics and Drones
+173,Ministry of Panchayati Raj,Development and Optimization of Al model for Feature identification/ Extraction from drone orthophotos.,Software,SIH1705,104,Robotics and Drones
+174,"GAIL, Ministry of Petroleum and Natural Gas",Intelligent Enterprise Assistant: Enhancing Organizational Efficiency through AI-driven Chatbot Integration,Software,SIH1706,166,Miscellaneous
+175,"GAIL, Ministry of Petroleum and Natural Gas",Development of a Geolocation-Based Attendance Tracking Mobile Application.,Software,SIH1707,425,Miscellaneous
+176,"GAIL, Ministry of Petroleum and Natural Gas",Tool for secure automatic network topology creation.,Software,SIH1708,62,Miscellaneous
+177,Ministry of Power,Comprehensive Automated Document Verification System for Official Documentation,Software,SIH1709,135,Smart Automation
+178,Ministry of Railway,Enhancing Navigation for Railway Station Facilities and Locations,Software,SIH1710,433,Transportation & Logistics
+179,Ministry of Railway,Enhancing Rail Madad with Al-powered Complaint Management,Software,SIH1711,275,Smart Automation
+180,Ministry of Social Justice and Empowerment,Interactive Skills Enhancer (ISE): A Virtual Reality-Based Learning Tool for Children with ASD and ID,Software,SIH1712,126,Smart Education
+181,Ministry of Social Justice and Empowerment,Software for Speech Language Therapy Clinical Services,Software,SIH1714,208,MedTech / BioTech / HealthTech
+182,Ministry of Social Justice and Empowerment,AI tool/mobile app for Indian Sign language(ISL) generator from audio-visual content in English/Hindi to ISL content and vice-versa,Software,SIH1715,264,Miscellaneous
+183,Ministry of Social Justice and Empowerment,Indian Sing Language to Text/Speech translation,Software,SIH1716,390,Miscellaneous
+184,Ministry of Social Justice and Empowerment,Indian Version of Nagish App,Software,SIH1717,217,Miscellaneous
+185,Ministry of Social Justice and Empowerment,Capturing Non-manual features of Indian Sign Language and converting it into text,Software,SIH1718,126,Miscellaneous
+186,Ministry of Social Justice and Empowerment,Monitoring System for classroom session in skill training programe,Software,SIH1719,103,Smart Education
+187,Ministry of Youth Affairs & Sports,Education & Awareness - Effective Use of Technology for Dissemination of Anti-Doping Information,Software,SIH1720,111,Smart Education
+188,Ministry of Youth Affairs & Sports,Intelligence and Investigations - Enhancing Anti-Doping Efforts,Software,SIH1721,103,Smart Automation
+189,Ministry of Youth Affairs & Sports,Gamification of Anti-Doping Information,Software,SIH1722,113,Smart Education
+190,National Aluminium Company Limited (NALCO),"Prediction of Aluminium wire rod physical properties through AI, ML or any modern technique for better productivity and quality control.",Software,SIH1723,128,Miscellaneous
+191,Ministry of Housing and Urban Affairs,"Platform for Inter-departmental cooperation (at city level) in Indian Cities, for sharing data & resources, unified phasing, planning and implementation of projects.",Software,SIH1724,195,Miscellaneous
+192,Ministry of Housing and Urban Affairs,Utilization of images for monitoring of progress of construction activities for building construction projects.,Software,SIH1725,110,Smart Automation
+193,Ministry of Housing and Urban Affairs,Utilization of aerial/ drone-based images for monitoring of progress of construction activities for building construction projects,Software,SIH1726,101,Smart Automation
+194,Ministry of Housing and Urban Affairs,Universal Switch Set with Data Encryption and Decryption for Legacy Applications without Cyber Safety Measures,Software,SIH1727,71,Blockchain & Cybersecurity
+195,AICTE,Development of a Paperless Scholarship Disbursement System for PMSSS,Software,SIH1728,310,Miscellaneous
+196,AICTE,AI supported AICTE Approval process portal,Software,SIH1729,102,Smart Automation
+197,AICTE,AI driven Inspection of Institutions,Software,SIH1730,105,Smart Automation
+198,MathWorks India Private Limited,SolarQuest: Innovate to Capture More Sunlight and Boost Energy,Software,SIH1731,103,Clean & Green Technology
+199,Indian Space Research Organization (ISRO),Enhancement of Permanently Shadowed Regions (PSR) of Lunar Craters Captured by OHRC of Chandrayaan-2,Software,SIH1732,211,Space Technology
+200,Indian Space Research Organization (ISRO),SAR Image Colorization for Comprehensive Insight using Deep Learning Model (h),Software,SIH1733,278,Space Technology
+201,Indian Space Research Organization (ISRO),Downscaling of Satellite based air quality map using AI/ML,Software,SIH1734,127,Clean & Green Technology
+202,Indian Space Research Organization (ISRO),On-device semantic segmentation of WMS services with geospatial data export,Software,SIH1735,67,Smart Automation
+203,Indian Space Research Organization (ISRO),"AI based frame interpolation, video generation and display system for WMS services",Software,SIH1736,95,Smart Automation
+204,Indian Space Research Organization (ISRO),Automatic Modulation Recognition software for DVB -S2X waveforms,Software,SIH1737,65,Smart Automation
+205,Indian Space Research Organization (ISRO),Innovative applications of cloud-optimized geotiffs for INSAT satellite data,Software,SIH1738,64,Clean & Green Technology
+206,Indian Space Research Organization (ISRO),Building Integrated Photo-voltaic (BIPV) potential assessment and visualisation using LOD-1 3D City Model,Software,SIH1739,77,Renewable / Sustainable Energy
+207,Indian Space Research Organization (ISRO),Development of map-matching algorithm using AI-ML techniques to distinguish vehicular movement on highway and service road,Software,SIH1740,121,Smart Automation
+208,Indian Space Research Organization (ISRO),Centralized application-context aware firewall,Software,SIH1741,97,Blockchain & Cybersecurity
+209,Ministry of Education,Standardizing Odd School Structures to Improve Educational Policy Implementation and Resource Allocation,Software,SIH1742,103,Smart Automation
+210,National Investigation Agency (NIA),Parsing of Social Media Feeds,Software,SIH1743,218,Miscellaneous
+211,National Investigation Agency (NIA),Creating a cyber triage tool to streamline digital forensic investigation,Software,SIH1744,118,Blockchain & Cybersecurity
+212,National Critical Information Infrastructure Protection Center (NCIIPC),De-anonymizing of entities on the onion sites operating on TOR Network,Software,SIH1745,87,Blockchain & Cybersecurity
+213,National Critical Information Infrastructure Protection Center (NCIIPC),Improving open source software security using Fuzzing,Software,SIH1746,79,Blockchain & Cybersecurity
+214,National Critical Information Infrastructure Protection Center (NCIIPC),Improving Android security: Application security for mobile app on Android 14 or higher,Software,SIH1747,80,Miscellaneous
+215,National Critical Information Infrastructure Protection Center (NCIIPC),Creating a Framework for Static Analysis of Vulnerabilities in Android Applications,Software,SIH1748,77,Miscellaneous
+216,National Critical Information Infrastructure Protection Center (NCIIPC),Recovery of Deleted Data and Associated Metadata from XFS and Btrfs Filesystems,Software,SIH1749,91,Blockchain & Cybersecurity
+217,National Critical Information Infrastructure Protection Center (NCIIPC),Creating a Comprehensive Web Application Fuzzer,Software,SIH1750,111,Miscellaneous
+218,Ministry of Communication,"Dashboard for Swachhta and LiFE. Develop a dashboard aimed at maintaining cleanliness and LiFE practices, integrating AI-powered image processing technology for effective monitoring of Swachhta and green practices adopted in post offices. The dashboard needs to be accessible from the Divisional Office offering surveillance capabilities and triggering alerts for deviation from prescribed Swachhta and Green Growth standards to prompt on ground intervention to guide the post office concerned to make necessary changes to conform to set expectations.",Software,SIH1751,108,Clean & Green Technology
+219,Ministry of Communication,"Measurement and Monitoring of Counter Services ""Develop a simple to use application for measurement and monitoring of counter services offered by Post Offices for their customers while providing ease of access to mail, parcel, financial, payment, insurance and citizen centric services from each Post Office. The solution suggested should integrate traditional and modern Industry 4.0 Technology based solution to this fundamental challenge faced by the DoP across its vast network. Integrating AI-powered image processing technology for effective monitoring of smooth, hassle free and efficient counter services based on live feed of customer service areas for a delightful customer experience are expected as a solution. Ease of application of the solution in the practical setting is key to the assessment criteria for this problem. The dashboard needs to be accessible at the Post Office and to its higher offices in the chain upto Divisional and Regional Office"".",Software,SIH1752,125,Smart Automation
+220,Ministry of Communication,"Road Transport Network Telematics Develop a telematics solution to enable efficient trucking operations for the long haul to connect the country through route optimization, live tracking and monitoring, optimal capacity utilization analysis and to enable appropriate response.",Software,SIH1753,127,Transportation & Logistics
+221,Ministry of Communication,"A Digital BRSR Platform for India Post Network ""The Department of Posts (DoP) in India requires a cutting-edge, digital solution to implement a Business Responsibility & Sustainability Reporting (BRSR) framework. This platform aims to transform DoP into a leader in environmental and social sustainability while fostering transparency and accountability towards stakeholders.""",Software,SIH1754,78,Clean & Green Technology
+222,Ministry of Communication,"Data Insights and Strategic Unit (DISU) at the Divisional Level for DoP ""The Divisional Office as the nerve centre of administration, governance and control over the widespread national postal network requires a robust monitoring, analytics, visualisation and feedback mechanism to take advantage of digitisation and data driven governance.""",Hardware,SIH1755,51,Miscellaneous
+223,Ministry of Communication,Bridging the Measurability Gap - A Digital Solution for validated Citizens Charter norms?ö?ç?û adherence across public interfaces and customer touchpoints of DoP,Software,SIH1756,110,Transportation & Logistics
+224,Ministry of Communication,"India Post A Bridge for Indian Diaspora to access things Indian "" Building a community of Indian Diaspora for meeting their needs of Indian Products (traditional/ ethnic / handicrafts) through India Post by connecting PIOs with local sellers / MSME / Artisans""",Software,SIH1757,148,Transportation & Logistics
+225,Ministry of Communication,"AI-Powered Delivery Post Office Identification System ?ö?ç?ú The wide, evolving delivery network of the Post Office makes it difficult for customers to write the correct pin code on the postal items for delivery. The Post Office also merges Pincodes together to mechanise and streamline delivery in the emerging volume and mix of mail handled at different stages, including the point of delivery. An intelligent solution, powered by AI is needed to meet the dynamic design of the supply chain both for customers as well as operators within India Post.",Software,SIH1758,105,Transportation & Logistics
+226,Ministry of Communication,"DYNAMIC MAIL TRANSMISSION SOLUTION USING BEST CONNECTIVITY ACROSS MODES ""Serving a large country like India with the habitations across states, cities, towns, blocks and villages with geographic diversity as well is a complex task. The availability of multiple modes of transport for secure transmission of mail, parcels, cargo and people is a boon. Postal mail with its volume, value and weight profile has unique requirements for efficient and effective transmission to cover all delivery points around the sorting and transmission hubs that have been created over the years. With a focus on dynamic allocation and use of available transport within the structure of mail operations defined by the Department of Posts, we need a system to help choose the best mode across land, rail, air and water for fastest transmission of mail in each local context. """,Software,SIH1759,137,Transportation & Logistics
+227,Ministry of Communication,"AI based identification of Financial (Banking & Insurance) needs based on demography and economic / farming Cycle ""While the Post Office Network serves everyone, everywhere, on all days, the need for various services including financial and insurance services has a seasonal variation to it. There is a need to time communication and support to customers at times they require it most based on their daily routines. A robust system to segment, target and focus on each customer based on their needs from time to time is needed for India Post to direct its service force to make efforts in response to such needs.""",Software,SIH1760,130,Miscellaneous
+228,Ministry of Communication,"AI based Customized time slot Delivery of Articles/Parcels "" To align with the needs of the modern lifestyles of customers and their expected time of availability at the home or office address where an item needs to be delivered, the time slot can be decided in consultation with the customer based on an AI Driven correspondence system as per demand/request of the Sender or Receiver""",Software,SIH1761,154,Transportation & Logistics
+229,Ministry of Communication,"Building a National Web Community of Philatelists ""This is to overcome challenges faced by philatelists across India and to design a solution that enhances their experience and fills up gaps in access to information, raising demand and ensuring fulfillment as per interest for each Philatelic item and ancillaries released and made anywhere in the country through a web based community and a National Philately Deposit Account.",Software,SIH1762,200,Transportation & Logistics
+230,Ministry of Jal Shakti,"Grey Water Management (GWM)- Implementing low cost technical solutions to mitigate water contamination, especially removal of contaminants, before discharge into rivers and lakes.",Hardware,SIH1764,118,Clean & Green Technology
+231,Ministry of Jal Shakti,Grey Water Management (GWM) - Mechanism for treating grey water and black water together in densely populated areas preferably having low land implication.,Hardware,SIH1765,104,Clean & Green Technology
+232,Ministry of Jal Shakti,GOBARdhan - Low-cost kits to measure nutrient content of F/L OM,Hardware,SIH1767,60,Clean & Green Technology
+233,Ministry of Jal Shakti,GOBARdhan - Low-cost enrichment models for F/L OM (Fermented / Liquied Organic Manure),Hardware,SIH1768,47,Clean & Green Technology
+234,Ministry of Jal Shakti,Personalized testing kits for testing Bacteriological contamination at delivery points,Hardware,SIH1770,66,Smart Automation
+235,Ministry of Jal Shakti,Personalized testing kits for testing Residual Silver ion level at delivery points,Hardware,SIH1771,62,Smart Automation
+236,"National Security Guard (NSG), MHA",Live Location Tracking,Software,SIH1772,134,Miscellaneous
+237,"National Security Guard (NSG), MHA",Conversion of 2D Blueprints into 3D Model,Software,SIH1773,126,Smart Automation
+238,"Indo-Tibetan Border Police (ITBP), MHA",Indigenous logistics Drones to enhance operational & logistic capability,Hardware,SIH1774,116,Robotics and Drones
+239,"Indo-Tibetan Border Police (ITBP), MHA",Fake social media accounts and their detection,Software,SIH1775,258,Blockchain & Cybersecurity
+240,"Indo-Tibetan Border Police (ITBP), MHA","Design and develop an AI-powered operational management system to optimize resource utilization, enhance situational awareness and improve decision-making processes.",Software,SIH1776,146,Smart Automation
+241,Ministry of Skill Development and Entrepreneurship (MSDE),AI-Driven Inclusive Assessment Tools for Skill Ecosystem,Software,SIH1777,106,Smart Education
+242,Ministry of Skill Development and Entrepreneurship (MSDE),Innovative Gerontological Care Solutions: Designing the Future of Elderly Care Products,Hardware,SIH1778,153,MedTech / BioTech / HealthTech
+243,Ministry of Skill Development and Entrepreneurship (MSDE),Voice-Controlled Gaming Tools for Enhanced Learning in the Skill Ecosystem,Software,SIH1779,96,Toys & Games
+244,Ministry of Skill Development and Entrepreneurship (MSDE),Designing Innovative Products for Empowering the Delivery Workforce,Hardware,SIH1780,127,Smart Education
+245,Ministry of Skill Development and Entrepreneurship (MSDE),AI-Enhanced Career Guidance System for Personalized Career Pathways,Software,SIH1781,298,Smart Education
+246,Ministry of Information and Broadcasting,An online system to automatically verify new title submissions by checking for similarities with existing titles,Software,SIH1782,110,Miscellaneous
+247,Madhya Pradesh Police,Money is being transacted by criminals in crypto currency,Software,SIH1783,140,Blockchain & Cybersecurity
+248,Madhya Pradesh Police,Domain hosting details,Software,SIH1784,105,Blockchain & Cybersecurity
+249,Madhya Pradesh Police,Universal Programming Kit,Software,SIH1785,121,Miscellaneous
+250,Madhya Pradesh Police,"A Software, AI App to provide legal information ie. Case laws various important landmark judgement on important case legal matters.",Software,SIH1786,287,Smart Automation
+251,Madhya Pradesh Police,Fuzzy Name conversion of Hindi Names in Police Records,Software,SIH1787,163,Miscellaneous
+252,Madhya Pradesh Police,Development and Implementation of Face Recognition Technology in the Police Department,Software,SIH1788,192,Smart Automation
+253,Madhya Pradesh Police,Hardware Inventory Management in the Police Department,Software,SIH1789,204,Smart Resource Conservation
+254,Madhya Pradesh Police,Face Recognition Surveillance System and Communication Systems for Missing Persons or Items at Simhastha Ujjain for the Police Department,Software,SIH1790,190,Smart Automation
