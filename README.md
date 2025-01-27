@@ -1,3 +1,4 @@
 this is the analysis of hackathon dataset.
 <br>
-Author-Tanishq Bhakar(VIPS BTECH CSE)
+Author-Tanishq Bhakar
+COOLEGE INFO -VIPS BTECH CSE
